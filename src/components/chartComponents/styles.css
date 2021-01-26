@@ -1,0 +1,24 @@
+.analytics-container-style {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 14px;
+  margin-bottom: 20px;
+}
+.chart-styling {
+  border-radius: 10px;
+  background-color: #1a1f36 !important;
+  box-shadow: 0px 54.6003px 54.6003px rgba(0, 0, 0, 0.25);
+  border-radius: 15.8098px;
+}
+.highcharts-background {
+  background-color: #1a1f36;
+  backdrop-filter: blur(44px);
+  border-radius: 10px;
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.7);
+}
+.highcharts-color-0 {
+  fill: #7cb5ec;
+  stroke: #7cb5ec;
+  font-family: blenderProBook, sans-serif !important;
+  font-size: 25px !important;
+  background-color: #1a1f36 !important;
+}

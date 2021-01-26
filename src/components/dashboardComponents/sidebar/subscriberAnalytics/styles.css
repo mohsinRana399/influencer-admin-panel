@@ -1,0 +1,47 @@
+.subscriber-heading-style {
+  font-family: AgencyFb, sans-serif;
+  color: white;
+  /* font-weight: normal; */
+  font-size: 33.4px;
+}
+.table-container {
+  background: #1a1f36;
+  backdrop-filter: blur(44px);
+  border-radius: 10px;
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.7);
+
+  font-family: blenderProBold, sans-serif;
+  color: #53b9ea;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.015em;
+}
+.table-container table td,
+.table-container table th {
+  border: 1px solid black !important;
+}
+
+.table-container table th {
+  color: #8792a2;
+  font-weight: 600;
+  font-size: 2rem;
+}
+.table-container table td {
+  color: white;
+  font-size: 1.2rem;
+}
+.table-container ul a.page-link {
+  color: white !important;
+  background-color: #ff003c !important;
+}
+.table-container table thead:nth-of-type(2) {
+  display: none;
+}
+.close-friend-button {
+  border: none;
+  background-color: #ff003c;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+}

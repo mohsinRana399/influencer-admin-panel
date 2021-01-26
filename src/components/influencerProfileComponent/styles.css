@@ -1,0 +1,41 @@
+.financial-details-style {
+  width: 40% !important;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.7);
+  border-radius: 14px;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+}
+.Subscriber-info-style {
+}
+.account-balance-style {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20.7401px;
+  line-height: 25px;
+  letter-spacing: 0.455002px;
+  color: #53b9ea;
+}
+.account-balance-style-2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20.7401px;
+  line-height: 25px;
+  letter-spacing: 0.455002px;
+  color: #53b9ea;
+  text-decoration: underline;
+}
+.solid-line {
+  width: 100%;
+  border-top: 3px solid white;
+}
+.subscribers-table {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.7);
+  border-radius: 14px;
+}

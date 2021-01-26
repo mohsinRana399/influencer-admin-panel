@@ -1,0 +1,88 @@
+.main-div {
+  height: 100vh;
+}
+.loginPageContainer {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.7);
+  border-radius: 14px;
+  width: 50vh !important;
+  height: fit-content;
+  margin-top: 50px;
+
+  /* The text */
+  height: 60vh;
+}
+.loginButtonStyling {
+  text-align: center;
+}
+.emailBoxStyling {
+  font-family: blenderProBook, sans-serif !important;
+  color: white;
+  font-size: 25px;
+  background: #8a8a8a;
+  box-shadow: inset -6px -6px 15px rgba(255, 255, 255, 0.78),
+    inset 6px 6px 16px rgba(0, 0, 0, 0.15);
+  border-radius: 54px;
+  border: none;
+}
+.buttonStyling {
+  /* glass */
+  background: linear-gradient(136.67deg, #ff409a 8.34%, #c438ef 95.26%);
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  box-shadow: 0px 3.64002px 28.2101px #ba1358;
+  border-radius: 12.7401px;
+  /* The text */
+  border: none;
+  font-family: blenderProBold, sans-serif !important;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0.015em;
+}
+.buttonDivStyling {
+  justify-content: center;
+}
+.pageHeadingTextLogin {
+  color: 53b9ea;
+  font-weight: normal;
+  font-size: 40pt;
+  word-spacing: 0px;
+  line-height: 100%;
+  letter-spacing: 0.02em;
+
+  /* text-primary */
+
+  text-align: center;
+}
+.signupTextStyling {
+  color: rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+}
+.login-text-styling {
+  line-height: 1;
+  position: relative;
+  display: inline-block;
+
+  color: 53b9ea;
+  font-weight: normal;
+  font-size: 100px;
+  letter-spacing: 20px;
+  text-align: center;
+
+  font-family: blenderProBold, sans-serif !important;
+  color: white;
+  font-size: 20px;
+}
+
+.label-style {
+  font-family: blenderProBold, sans-serif !important;
+  color: white;
+  font-size: 25px;
+}
+.closerStyle {
+  font-family: blenderProBold, sans-serif !important;
+  color: white;
+  font-size: 45px;
+}
